@@ -1,0 +1,1184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+
+width: 100%;
+float: left;
+height: 655px;
+background: #ab3fab;
+
+       }
+
+.cointainer{
+    
+    height: 75px;
+    width: 91%;
+    margin: 0px auto;
+
+
+            }
+
+        
+.hname{
+
+width: 30%;
+float: left;
+height: 75px
+        }  
+        
+.hname h1{
+    color: cornsilk;
+    font-size: 38px;
+    text-shadow:5px 5px black;
+    
+}
+
+.hcontain{
+    float: left;
+    height: 75px;
+    width: 70%;
+
+}
+
+nav ul{
+
+    list-style:none;
+}
+
+nav ul li{
+    display: inline-block;
+    padding:20px 35px;
+    text-transform: uppercase;
+    margin-left:90px
+}
+
+nav ul li a{
+
+    text-decoration: none;
+    color: cornsilk;
+    font-size: 18px;
+}
+
+.intro{
+
+    width: 100%;
+    height: 275px;
+    float: left;
+
+
+}
+.interone{
+    width: 50%;
+    height: 310px;
+    float:left;
+    margin-left:25%
+   
+}
+
+.interone p{
+    color:white;
+    text-align:center;
+    text-transform:capitalize;
+    font-size:25px;
+    padding:190px;
+
+}
+
+.introtwo{
+    width: 40%;
+    height: 75px;
+    float: left;
+    margin-left:30%;
+
+}
+
+.introtwo .btn{
+    margin-left:35%;
+    padding:25px;
+    width:200px;
+    background:orange;
+    box-shadow:3px 3px;
+    text-decoration:none;
+    text-transform:capitalize;
+    font-size: 19.2px;
+
+}
+
+.introtwo .btn h3{
+    color: cornsilk;
+    text-shadow:2px 2px black;
+}
+
+
+.serv{
+width: 100%;
+float: left;
+height: 700px;
+background: #49afa4;
+
+
+}
+
+.provi{
+
+width: 50%;
+float: left;
+height: 100px;
+margin-left: 25%;
+text-shadow:2px 2px white;
+
+}
+.provi h1{
+
+    text-transform: uppercase;
+    text-align: center;
+    font-size:40px;
+    padding:40px;
+}
+.endlineone{
+    width:20%;
+    height:3px;
+    background:black;
+    float:left;
+    margin-left:40%
+
+}
+
+.provi h2{
+
+text-align: center;
+}
+
+.nexprovi{
+
+width: 100%;
+float: left;
+
+height: 220px;
+
+
+}
+.nexprovi p{
+
+    text-align: center;
+    text-transform:capitalize;
+    font-size:25px;
+    margin-top:60px
+}
+
+
+
+.fla{
+float: left;
+height: 100px;
+
+width: 25%;
+
+}
+
+.fla img{
+    margin-left: 40%;
+}
+
+.fla h1{
+    text-align: center;
+    text-transform:uppercase;
+    margin-top:20px;
+    color: snow;
+    text-shadow:2px 2px black;
+}
+
+.fla p{
+    text-align: center;
+    margin-top:35px;
+    color: snow;
+}
+.pen{
+    float: left;
+    height: 100px;
+   
+    width: 25%;
+
+
+}
+.pen img{
+    margin-left: 40%;
+}
+
+.pen h1{
+    text-align: center;
+    text-transform:uppercase;
+    margin-top:20px;
+    color: snow;
+    text-shadow:2px 2px black;
+}
+
+.pen p{
+    text-align: center;
+    margin-top:35px;
+    color: snow;
+}
+
+.setn{
+    float: left;
+    height: 100px;
+    
+    width: 25%;
+
+}
+
+.setn img{
+    margin-left: 35%;
+}
+
+.setn h1{
+    text-align: center;
+    text-transform:uppercase;
+    margin-top:20px;
+    color: snow;
+    text-shadow:2px 2px black;
+}
+
+.setn p{
+    text-align: center;
+    margin-top:35px;
+    color: snow;
+
+}
+
+.rokt{
+    float: left;
+    height: 100px;
+    width: 25%;
+
+}
+.rokt img{
+    margin-left: 35%;
+}
+
+.rokt h1{
+    text-align: center;
+    text-transform:uppercase;
+    margin-top:20px;
+    color: snow;
+    text-shadow:2px 2px black;
+}
+
+.rokt p{
+    text-align: center;
+    margin-top:35px;
+    color: snow;
+}
+
+.team{
+
+    width: 100%;
+    height: 900px;
+    float: left;
+    background: silver;
+
+}
+
+.teamintro{
+    width: 100%;
+    height: 20px;
+    float: left;
+    padding:40px
+}
+
+.teamintro h1{
+
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 40px;
+}
+
+.endline{
+    width:28%;
+    height:3px;
+    background:black;
+    float:left;
+    margin-left:39%
+
+}
+
+.teamxtwo{
+
+    
+    width: 100%;
+    height: 230px;
+    float: left;
+
+
+}
+
+
+  .teamxtwo h1{   
+    text-align:center;
+    padding:50;
+    font-size:28px;
+
+
+}
+
+
+.teamone{
+    width: 25%;
+    height: 100px;
+    float: left;
+
+}
+.teamone img{
+
+    margin-left: 20%;
+}
+
+
+.teamone h1{
+    text-align: center;
+    text-transform:uppercase;
+
+}
+
+.teamone h3{
+    text-align:center;
+    color:#763eb3;
+
+}
+
+.teamone p{
+    margin-top:40px;
+    text-align:center;
+
+}
+
+.teamone ul i{
+    float: left;
+    padding:5px;
+    margin-left:15%;
+    margin-top:20px;
+}
+
+.teamtwo{
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.teamtwo img{
+
+    margin-left: 20%;
+}
+
+
+.teamtwo h1{
+    text-align: center;
+    text-transform:uppercase;
+
+}
+
+.teamtwo h3{
+    text-align:center;
+    color:#763eb3;
+
+}
+
+.teamtwo p{
+    margin-top:40px;
+    text-align:center;
+
+}
+.teamtwo ul i{
+    float: left;
+    padding:5px;
+    margin-left:15%;
+    margin-top:20px;
+}
+
+.teamthree{
+    width: 25%;
+    height: 100px;
+    float: left;
+
+}
+
+.teamthree img{
+
+    margin-left: 20%;
+}
+
+
+.teamthree h1{
+    text-align: center;
+    text-transform:uppercase;
+
+}
+
+.teamthree h3{
+    text-align:center;
+    color:#763eb3;
+
+}
+
+.teamthree p{
+    margin-top:40px;
+    text-align:center;
+
+}
+.teamthree ul i{
+    float: left;
+    padding:5px;
+    margin-left:15%;
+    margin-top:20px;
+}
+
+.teamfour{
+    width: 25%;
+    height: 100px;
+    float: left;
+
+}
+
+.teamfour img{
+
+    margin-left: 20%;
+}
+
+
+.teamfour h1{
+    text-align: center;
+    text-transform:uppercase;
+
+}
+
+.teamfour h3{
+    text-align:center;
+    color:#763eb3;
+
+}
+
+.teamfour p{
+    margin-top:40px;
+    text-align:center;
+
+}
+.teamfour ul i{
+    float: left;
+    padding:5px;
+    margin-left:15%;
+    margin-top:20px;
+}
+
+
+.skills{
+    width: 100%;
+    height: 650px;
+    background:white;
+    float: left;
+}
+
+.got{
+
+    width: 100%;
+    height: 130px;
+    margin: auto;
+}
+
+.got h1{
+padding:55px;
+text-align:center;
+text-transform: capitalize;
+font-size: 50px;
+
+}
+
+.dedln{
+
+    width: 200px;
+    height: 4.4px;
+    margin: auto;
+    background:black;
+
+}
+
+.working{
+
+    width: 100%;
+    float: left;
+    height: 170px;
+    margin: auto;
+}
+
+.working p{
+
+    padding:35px;
+    font-size:21px;
+    text-align: center;
+    font-weight: 900;
+
+}
+
+
+.web{
+    float: left;
+    width: 25%;
+    height: 200px;
+
+}
+
+.web img{
+margin-left: 30%;
+margin-top:20px
+}
+
+.web h1{
+    position: relative;
+    text-align:center;
+    bottom:60%;
+}
+
+.web p{
+text-align: center;
+margin-top:10px;
+font-weight: 900;
+    
+}
+
+
+
+.htc{
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+
+.htc img{
+    margin-left: 30%;
+    margin-top:20px
+
+}
+
+.htc h1{
+    position: relative;
+    text-align:center;
+    bottom:60%;
+
+}
+
+.htc p{
+    text-align: center;
+    margin-top:10px;
+    font-weight: 900;
+
+}
+
+.ding{
+    width: 25%;
+    height: 200px;
+    float: left;
+
+}
+
+.ding img{
+
+    margin-left: 30%;
+    margin-top:20px
+
+}
+
+.ding h1{
+    position: relative;
+    text-align:center;
+    bottom:60%;
+
+
+}
+
+.ding p{
+    text-align: center;
+    margin-top:10px;
+    font-weight: 900;
+
+
+}
+
+
+.uuix{
+    width: 25%;
+    height: 200px;
+    float: left;
+
+}
+
+.uuix img{
+    margin-left: 30%;
+    margin-top:20px
+
+
+}
+
+.uuix h1{
+    position: relative;
+    text-align:center;
+    bottom:60%;
+
+
+}
+
+.uuix p{
+
+    text-align: center;
+    margin-top:10px;
+    font-weight: 900;
+
+}
+
+
+.orprotful{
+    width: 100%;
+    height: 1500px;
+    float: left;
+    background: rgb(236, 225, 125);
+}
+
+.inof{
+width: 100%;
+height: 140px;
+float: left;
+
+}
+.inof h1{
+
+ text-align: center;
+ text-transform:capitalize;
+ padding: 70px;
+ font-size: 50px;
+ text-shadow:2px 2px white
+
+}
+
+.pool{
+    width: 230px;
+    height: 4.4px;
+    margin-left:43%;
+    float: left;
+    background:black;
+}
+
+.mminof{
+    width: 100%;
+    height: 120px;
+    float: left;
+}
+
+.mminof p{
+
+    text-align: center;
+    font-size:21px;
+    padding:40px;
+    font-weight: 900;
+
+}
+
+.mrin{
+    width: 100%;
+    height: 40px;
+    margin: auto;
+    float: left;
+}
+
+.londobondo{
+    text-align:center;
+    padding:5px;
+
+ 
+}
+
+.mrin .bon{
+    padding:5px; 
+    margin-right:20px;
+    color: white;
+    background:rgb(191 181 96);
+    box-shadow:1px 1px black;
+    text-shadow:1px 1px black;
+
+}
+
+.mrin .ton{
+    padding:5px; 
+    margin-right:20px;
+    color: white;
+    background:rgb(191 181 96);
+    box-shadow:1px 1px black;
+    text-shadow:1px 1px black;
+}
+
+.mrin .don{
+    padding:5px; 
+    margin-right:20px;
+    color: white;
+    background:rgb(191 181 96);
+    box-shadow:1px 1px black;
+    text-shadow:1px 1px black;
+}
+
+.mrin .mon{
+    padding:5px; 
+    margin-right:20px;
+    color: white;
+    background:rgb(191 181 96);
+    box-shadow:1px 1px black;
+    text-shadow:1px 1px black;
+
+}
+
+
+.ab{
+    width: 50%;
+    height: 500px;
+    float: left;
+
+}
+
+.ab img{
+    margin-left:20%;
+    padding-top:60px
+}
+
+.ab p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:30px;
+    padding-top:15px;
+    text-shadow:2px 2px white
+}
+
+.cd{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.cd img{
+
+    margin-left:20%;
+    padding-top:60px
+}
+
+.cd p{
+
+    text-align: center;
+    text-transform: uppercase;
+    font-size:30px;
+    padding-top:15px;
+    text-shadow:2px 2px white
+}
+
+
+.ef {
+    width: 50%;
+    height: 480px;
+    float: left;
+
+}
+
+.ef img{
+    margin-left:20%;
+    padding-top:60px
+
+}
+
+.ef p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:30px;
+    padding-top:15px;
+    text-shadow:2px 2px white
+
+}
+
+.gh{
+    width: 50%;
+    height: 480px;
+    float: left;
+
+
+}
+
+.gh img{
+    margin-left:20%;
+    padding-top:60px
+
+}
+
+.gh p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:30px;
+    padding-top:15px;
+    text-shadow:2px 2px rgb(240, 240, 240)
+}
+
+
+.btv{
+width: 100%;
+height: 100px;
+float: left;
+
+}
+
+.btv button{
+    background:cyan;
+    padding:25px 50px;
+    margin-left:45%;
+    box-shadow:2px 2px;
+}
+
+.btv p{
+    color:white;
+    font-size:20px;
+    font-weight:700;
+    text-shadow:2px 2px black;
+
+}
+
+
+.about{
+
+    width: 100%;
+    height: 900px;
+    float: left;
+    background: #f36c6c;
+}
+
+.ato{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.ato p{
+
+    text-align: center;
+    text-transform:uppercase;
+    font-size:40px;
+    padding-top:30px;
+    color:blanchedalmond;
+    text-shadow: 2px 2px black;
+}
+
+.doom{
+    width: 20%;
+    height:4px;
+    background: black;
+    float: left;
+    margin-left:40%
+}
+
+
+.client{
+    width: 100%;
+    height: 80px;    
+    float: left;
+    
+
+}
+
+.client p{
+    text-align: center;
+    text-transform:capitalize;
+    font-size:24px;
+    padding-top:20px;
+    color: blanchedalmond;
+}
+
+
+
+.seep{
+
+    width: 50%;
+    height: 300px;
+    float: left;
+
+
+}
+
+.seep img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    
+}
+
+.seep p{
+
+    margin-left:20px;
+    color:white;
+    padding-top:10px ;
+
+}
+
+.seep h1{
+    margin-left:40px;
+    text-transform:uppercase;
+    color:white;
+    padding-top:20px;
+
+
+}
+
+.seep h2{
+    margin-left:40px;
+    color:rgb(228, 240, 65);
+    font-size:20px;
+
+}
+
+
+
+
+.deep{
+    
+    width: 50%;
+    height: 300px;
+    float: left;
+
+}
+
+.deep img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    
+}
+
+.deep p{
+
+    margin-left:20px;
+    color:white;
+    padding-top:10px ;
+
+}
+
+.deep h1{
+    margin-left:40px;
+    text-transform:uppercase;
+    color:white;
+    padding-top:20px;
+
+
+}
+
+.deep h2{
+    margin-left:40px;
+    color:rgb(228, 240, 65);
+    font-size:20px;
+
+}
+
+
+
+.leep{
+    width: 50%;
+    height: 300px;
+    float: left;
+
+}
+
+
+.leep img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    
+}
+
+.leep p{
+
+    margin-left:20px;
+    color:white;
+    padding-top:10px ;
+
+}
+
+.leep h1{
+    margin-left:40px;
+    text-transform:uppercase;
+    color:white;
+    padding-top:20px;
+
+
+}
+
+.leep h2{
+    margin-left:40px;
+    color:rgb(228, 240, 65);
+    font-size:20px;
+
+}
+
+
+.ceep{
+
+    width: 50%;
+    height: 300px;
+    float: left;
+
+}
+
+
+
+.ceep img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    
+}
+
+.ceep p{
+
+    margin-left:20px;
+    color:white;
+    padding-top:10px ;
+
+}
+
+.ceep h1{
+    margin-left:40px;
+    text-transform:uppercase;
+    color:white;
+    padding-top:20px;
+
+
+}
+
+.ceep h2{
+    margin-left:40px;
+    color:rgb(228, 240, 65);
+    font-size:20px;
+
+}
+
+
+.touch{
+    width: 100%;
+    height: 700px;
+    float: left;
+    background: #5c5cbb;
+}
+
+}
+
+.tou{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.toom{
+    width: 20%;
+    height:4px;
+    background: black;
+    float: left;
+    margin-left:40%
+
+}
+
+.tou p{
+    text-align: center;
+    text-transform:uppercase;
+    font-size:40px;
+    padding-top:30px;
+    color:blanchedalmond;
+    text-shadow: 2px 2px black;
+
+
+}
+
+.toucent{
+    width: 100%;
+    height: 80px;    
+    float: left;
+
+}
+
+
+.toucent p{
+    text-align: center;
+    text-transform:capitalize;
+    font-size:24px;
+    padding-top:20px;
+    color: blanchedalmond;
+
+}
+
+.fom{
+
+    float:left;
+    height:50px;
+    margin-left:40%;
+    padding-top:30px
+
+}
+
+
+.fomcon{
+    color: white;
+    background: #00000052;
+   
+}
+
+.phol{
+
+    color: white;
+    background: #00000052;
+    border: none;
+    margin: 7px 0;
+    padding: 10px 290px 103px 11px;
+}
+
+
+.gone{
+    margin-left:28%;
+    padding:20px 35px;
+    margin-top:60px;
+    box-shadow:3px 3px #135c79;
+    background:#2cb8f1;
+    
+
+
+}
+
+
+.footer{
+	width: 100%;
+	float: left;
+	background: #344B8E;
+}
+
+.footercontrol{
+    text-align: center;
+    display: block;
+}
+
+.footercontrol ul {
+
+	list-style: none;
+}
+
+.footercontrol ul li{
+	margin: 32px 38px;display: inline-block;
+}
+
+.footercontrol ul li a{
+
+	color: white;
+
+	text-decoration: none;
+
+	text-transform: uppercase;
+
+	font-size: 18px;
+}
